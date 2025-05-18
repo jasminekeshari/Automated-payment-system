@@ -45,8 +45,10 @@ const ContactPage = () => {
       </h1>
       <p className="text-lg md:text-xl text-gray-300 max-w-2xl text-center mb-16">
         We value your questions, feedback, and insights. Let us know how we can assist you.
-        We are here to help and would love to hear from you!
-      </p>
+        We are here to help and would love to hear from you!<br></br><br></br>"Here Meet the <span className="text-purple-400">Team</span> behind the Payout Pilot!"
+        </p>
+
+
 
       {/* Cards */}
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10 w-full max-w-7xl">
