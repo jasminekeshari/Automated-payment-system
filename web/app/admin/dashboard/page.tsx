@@ -1,3 +1,5 @@
 export default function AdminDashboard() {
-  return <h1>Admin Dashboard</h1>;
+  <main className="min-h-screen flex items-center justify-center bg-white text-black">
+  <h1 className="text-4xl font-bold">Dashboard Page</h1>
+</main>
 }

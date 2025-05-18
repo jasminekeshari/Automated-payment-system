@@ -27,9 +27,9 @@ export default function Header() {
       <span className="text-white">Payout</span> <span className="text-purple-400">Pilot</span>
     </div>
     <nav className="space-x-6 text-sm">
-      <a href="#" className="hover:text-purple-300">Home</a>
-      <a href="#" className="hover:text-purple-300">Features</a>
-      <a href="#" className="hover:text-purple-300">Contact</a>
+      <a href="/" className="hover:text-purple-300">Home</a>
+      <a href="/features" className="hover:text-purple-300">Features</a>
+      <a href="/contact" className="hover:text-purple-300">Contact</a>
     </nav>
   </header>
   );
