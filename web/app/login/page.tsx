@@ -81,7 +81,7 @@ export default function LoginPage() {
   }
 
   return (
-    <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-blue-100 to-indigo-50">
+    <div className="min-h-screen w-full bg-gradient-to-b from-purple-900 to-black flex items-center justify-center overflow-hidden p-4">
       <div className="w-full max-w-md bg-white bg-opacity-80 backdrop-blur p-8 rounded-2xl shadow-lg border border-white border-opacity-20">
         <h2 className="text-3xl font-extrabold mb-6 text-center text-indigo-700">
           Welcome Back
@@ -140,7 +140,7 @@ export default function LoginPage() {
             loading ? 'opacity-50 cursor-not-allowed' : 'hover:bg-gray-100'
           }`}
         >
-          <img src="/google-logo.png" alt="Google" className="h-5 w-5" />
+          <img src="/images/google.jpg" alt="Google" className="h-5 w-5" />
           {loading ? 'Please wait…' : 'Sign in with Google'}
         </button>
 

@@ -12,7 +12,7 @@ export default function Hero() {
           Transparent, automated, and real-time payouts for EdTech mentors.
         </p>
         <Link
-          href="/"
+          href="/register"
           className="inline-block px-8 py-3 bg-white text-purple-800 font-semibold rounded-full shadow-md hover:bg-purple-100 hover:scale-105 transition-transform duration-200"
         >
           Get Started

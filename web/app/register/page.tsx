@@ -85,7 +85,7 @@ export default function RegisterPage() {
   };
 
   return (
-    <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-indigo-100 to-blue-50 p-4">
+    <div className="min-h-screen w-full bg-gradient-to-b from-purple-900 to-black flex items-center justify-center overflow-hidden p-4">
       <form
         onSubmit={onSubmit}
         noValidate
@@ -188,7 +188,7 @@ export default function RegisterPage() {
           className="w-full flex items-center justify-center gap-2 py-2 border border-gray-300 rounded-lg hover:bg-gray-100 transition disabled:opacity-60"
         >
           <img
-            src="/google-logo.png"
+            src="/images/google.jpg" 
             alt="Google"
             className="h-5 w-5"
           />
