@@ -17,9 +17,9 @@ const Header = () => {
     <header className="bg-gray-900 text-white px-6 py-4 shadow-md fixed top-0 left-0 right-0 z-50">
       <div className="max-w-7xl mx-auto flex justify-between items-center">
         {/* Logo */}
-        <Link href="/" className="text-xl font-bold text-purple-400">
-          MentorPayouts
-        </Link>
+        <div className="text-2xl font-bold text-purple-400 tracking-wide">
+      <span className="text-white">Payout</span> <span className="text-purple-400">Pilot</span>
+    </div>
 
         {/* Desktop Nav */}
         <nav className="hidden md:flex items-center space-x-6">
