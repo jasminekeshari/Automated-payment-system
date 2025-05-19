@@ -259,7 +259,7 @@ Access via `/mentor`:
 ## Deployment
 
 * Frontend: Vercel or Netlify (Next.js optimized)
-* Backend: Heroku, DigitalOcean, or AWS EC2
+* Backend: Render, Vercel
 * Environment vars set in host
 * MongoDB Atlas for production
 
@@ -273,8 +273,8 @@ Contributions are welcome! Please open issues or pull requests for bug fixes and
 
 ## License
 
-This project is licensed under the **MIT License**. See [LICENSE](LICENSE.md) for details.
+This project is licensed under the **Masai License**. See [LICENSE](LICENSE.md) for details.
 
 ---
 
-*Happy coding!* 🎉
+
