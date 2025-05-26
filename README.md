@@ -26,6 +26,7 @@
 * [Deployment](#deployment)
 * [Contributing](#contributing)
 * [License](#license)
+* [Project Links](#project-links)
 
 ---
 
@@ -276,5 +277,10 @@ Contributions are welcome! Please open issues or pull requests for bug fixes and
 This project is licensed under the **Masai License**. See [LICENSE](LICENSE.md) for details.
 
 ---
+
+## project links
+
+* Frontend Repo: https://github.com/yourusername/payoutpilot-frontend
+* Backend Repo:  https://github.com/yourusername/payoutpilot-backend
 
 
