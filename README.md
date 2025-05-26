@@ -278,7 +278,7 @@ This project is licensed under the **Masai License**. See [LICENSE](LICENSE.md) 
 
 ---
 
-## project links
+## Project links
 
 * Frontend Repo: https://github.com/yourusername/payoutpilot-frontend
 * Backend Repo:  https://github.com/yourusername/payoutpilot-backend
