@@ -44,6 +44,19 @@ This full-stack app uses Next.js and Tailwind CSS on the frontend, and Node.js/E
 
 ---
 
+## Demo Screenshots
+
+![Live demo: Admin dashboard and charts](screenshots/1.png)
+
+![Live demo: Mentor experience and payout details](screenshots/2.png)
+
+## Video Walkthrough
+
+- [Download/open video demo](screenshots/4.mp4)
+- (If your browser supports it, you may also run/embed locally with `<video controls src="screenshots/4.mp4"></video>`)
+
+---
+
 ## Features
 
 ### Common
